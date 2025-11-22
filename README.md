@@ -7,7 +7,7 @@
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:youremail@example.com" alt="Email Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
