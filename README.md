@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Saydmansour Mansour</h2>
+<h2>Hey 👋, I'm Sayd Mansour</h2>
 <p>I'm a Mobile Application Developer and a student passionate about full-stack development (Front-end & Back-end). I love building apps, exploring new technologies, and constantly learning to improve my skills. 🚀</p>
 
 <p>
@@ -7,7 +7,7 @@
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&link=mailto:youremail@example.com" alt="Email Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" />
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
